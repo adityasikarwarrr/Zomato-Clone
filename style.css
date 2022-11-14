@@ -39,6 +39,10 @@ header {
     display: flex;
     gap: 1.5rem;
 }
+.nav-bar li a {
+  text-decoration: solid;
+  color: white;
+}
 .head {
     display: flex;
     flex-direction: column;
